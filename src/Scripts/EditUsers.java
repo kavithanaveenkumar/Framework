@@ -7,7 +7,7 @@ import Generic.ReadExcel;
 import POM.Enter_Time_Track;
 import POM.Login_ActiTime;
 import POM.UserList;
-/*program to modify existing users details*/
+/*program to modify existing user's details*/
 public class EditUsers extends BaseTest
 {
 	@Test(groups= {"users"})
